@@ -1,4 +1,4 @@
-# Scaleout presentation system
+# Presentation system
 
 This folder holds the reusable instructions for turning Scaleout source material into presentations. The **copy workflow** governs the story and wording; the **style guide** governs the visual treatment. Keep them separate so a change to a deck's content does not silently change the presentation style.
 
