@@ -80,7 +80,7 @@ Separate **available**, **being evaluated**, and **planned** functions. Do not i
 
 ## 7. Paste-ready instruction for an AI presentation tool
 
-> Create the slides from the accompanying approved copy. Follow the attached Scaleout reference deck and this style guide. Use a 16:9 canvas, Inter, a white background, near-black text (`#111215`), deep-blue structural accents (`#004B87`), restrained orange emphasis (`#FF4600`), pale-grey panels (`#F4F5F7`), and cool-grey dividers (`#D1D5DB`). Keep the Scaleout identity at top left, a short uppercase eyebrow at top right, and a thin divider below the header. Use varied, simple layouts and editable diagrams. Preserve all factual qualifications in the copy. Shorten or split content only when necessary for readability; do not add facts, logos, claims, or decorative imagery. Ensure every title and text box fits within the slide.
+> Create the slides from the accompanying approved copy. Follow the attached reference deck and this style guide. Use a 16:9 canvas, Inter, a white background, near-black text (`#111215`), deep-blue structural accents (`#004B87`), restrained orange emphasis (`#FF4600`), pale-grey panels (`#F4F5F7`), and cool-grey dividers (`#D1D5DB`). Keep the Scaleout identity at top left, a short uppercase eyebrow at top right, and a thin divider below the header. Use varied, simple layouts and editable diagrams. Preserve all factual qualifications in the copy. Shorten or split content only when necessary for readability; do not add facts, logos, claims, or decorative imagery. Ensure every title and text box fits within the slide.
 
 ## Decisions to revisit in version 0.2
 
