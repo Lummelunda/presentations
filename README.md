@@ -7,7 +7,7 @@ This folder holds the reusable instructions for turning Scaleout source material
 | File | Role |
 | --- | --- |
 | [Slide-copy workflow prompt](scaleout-slide-copy-workflow-prompt.md) | Reusable prompts for reviewing source material, agreeing an outline, writing slide-by-slide copy, and preparing a clean handoff to a slide-generation tool. |
-| [Presentation style guide](scaleout-presentation-style-guide-v0.1.md) | Starting rules for colour, Inter typography, headers, layouts, diagrams, and claim presentation. Based on the newer FCT deck style. |
+| [Presentation style guide](scaleout-presentation-style-guide-v0.1.md) | Starting rules for colour, Inter typography, headers, layouts, diagrams, and claim presentation. Based on the newer deck style. |
 | [Platform copy example](examples/scaleout-edge-platform-deck-copy-v1.md) | Worked example of an 11-slide Scaleout Edge platform copy master. It includes on-slide copy plus internal purpose and layout notes. |
 
 ## Workflow
